@@ -38,3 +38,5 @@ https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=select+pl_name,pl_masse
     - from+ps: from the table ps
     - where+... : where the condition is met
     - format=csv: format of the output
+
+asdf
